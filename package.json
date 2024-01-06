@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/grzanek-monika/git-learning/issues"
   },
-  "homepage": "https://github.com/grzanek-monika/git-learning#readme"
+  "homepage": "https://github.com/grzanek-monika/git-learning#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
 }
