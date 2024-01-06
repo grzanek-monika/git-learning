@@ -2,3 +2,11 @@
     text-align: center;
     background-color: antiquewhite;
 }
+
+.songTxt {
+    font-size: 20px;
+}
+
+.source {
+    color: green;
+}
