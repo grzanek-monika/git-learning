@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/grzanek-monika/git-learning#readme",
   "devDependencies": {
-    "browser-sync": "^3.0.2"
+    "browser-sync": "^3.0.2",
+    "html-validate": "^8.8.0"
   }
 }
